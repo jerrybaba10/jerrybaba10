@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jerrybaba10
-- 👀 I’m a Data Scientist
+- 👋 Hi, I'm Jerry Atorigo
+- 👀 I'm a Data Scientist
 - I'm skilled in Python and Machine Learning tools
 - I'm interested in building machine learning model for all kinds of data insight findings like regression, classification, clustering etc.
 - 🌱 I’m currently working on projects from MeriSkill and Codebasics.
